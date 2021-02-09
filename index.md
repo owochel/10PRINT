@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+Shuang Cai cc7115@bard.edu
 
-You can use the [editor on GitHub](https://github.com/owochel/10PRINT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+2/8/21
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CMSC 335: Games Systems
 
-### Markdown
+Collaboration Statement: I worked alone on this assigment, building upon PotatoImaginator's 10 ptint
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Project is 
+-- 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 
+-- Clone in Lua ( TIC-80 )
+-- With slight changes in some interaction in color
+-- script: lua
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/owochel/10PRINT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
